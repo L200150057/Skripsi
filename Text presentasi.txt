@@ -1,0 +1,9 @@
+Iklim dan cuaca adalah materi yang sudah diajarkan kepada siswa sekolah dasar dalam sistem pendidikan indonesia tepatnya pada kurikulum 2013. Mempelajari iklim dan cuaca akan membuat anak lebih mengenal lingkungan sekitarnya, anak akan mengetahui penyebab terjadinya suatu fenomena dan kejadian alam di sekitar mereka. Pengenalan terhadap lingkungan sekitar merupakan pengalaman yang menyenangkan bagi anak dan dapat mengembangkan kecerdasan anak sejak dini.
+
+Berdasarkan pengamatan di SDN 02 Gonilan, materi iklim dan cuaca sudah di perkenalkan pada buku pelajaran siswa, tepatnya pada buku tematik 05 “Cuaca” kurikulum 2013 revisi 2018.  Namun karena kurangnya media pembelajaran, metode pembelajaran di SDN 02 Gonilan masih menggunakan metode konvensional, dimana guru menjelaskan materi kepada murid hanya menggunakan media buku. Tentunya metode ini memiliki beberapa kekurangan yaitu siswa mudah bosan karena proses pembelajaran, siswa akan lebih cepat lupa dengan materi pembelajaran karena proses pembelajaran tidak menarik.
+
+Untuk mengatasi permasalahan tersebut diperlukan media yang menarik dan disukai siswa. Salah satu media interaktif yang menarik adalah menggunakan metode pembelajaran melalui game, dimana media ini sangat diminati oleh anak-anak usia sekolah dasar yang secara harfiah masih sangat suka bermain.
+
+metode penelitian yang digunakan dalam penelitian ini adalah metode waterfall, metode waterfall adalah metode pengembangan sistem yang setiap prosesnya terus mengalir seperti air terjun, melalui beberapa fase yang harus dijalankan agar sistem sukses dibuat.
+
+analisis kebutuhan
